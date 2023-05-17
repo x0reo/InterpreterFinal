@@ -1,0 +1,6 @@
+C:\Users\a\Desktop\Interpreter\CODEterpreter\CODEterpreter\obj\Debug\net7.0\CodeLexer.cs
+C:\Users\a\Desktop\Interpreter\CODEterpreter\CODEterpreter\obj\Debug\net7.0\CodeParser.cs
+C:\Users\a\Desktop\Interpreter\CODEterpreter\CODEterpreter\obj\Debug\net7.0\CodeListener.cs
+C:\Users\a\Desktop\Interpreter\CODEterpreter\CODEterpreter\obj\Debug\net7.0\CodeBaseListener.cs
+C:\Users\a\Desktop\Interpreter\CODEterpreter\CODEterpreter\obj\Debug\net7.0\CodeVisitor.cs
+C:\Users\a\Desktop\Interpreter\CODEterpreter\CODEterpreter\obj\Debug\net7.0\CodeBaseVisitor.cs

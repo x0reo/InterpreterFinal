@@ -1,0 +1,8 @@
+BEGIN CODE
+    INT x=2
+    IF(x/2<10)
+    BEGIN IF
+        x = x / 2
+        DISPLAY: x
+    END IF
+END CODE
